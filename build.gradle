@@ -37,5 +37,5 @@ dependencies {
 
 // The wrapper task is configured to ensure Gradle Wrapper uses a specific version.
 wrapper {
-    gradleVersion = '7.3.3' // Update to the Gradle version you're aligning with
+    gradleVersion = '8.6' // Update to the Gradle version you're aligning with
 }
