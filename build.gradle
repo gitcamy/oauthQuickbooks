@@ -3,7 +3,7 @@ plugins {
     id 'java'
     id 'eclipse'
     id 'idea'
-    id 'org.springframework.boot' version '2.5.6' // Adjust to the latest compatible version
+    id 'org.springframework.boot' version '3.2.4' // Adjust to the latest compatible version
     id 'io.spring.dependency-management' version '1.0.11.RELEASE' // Specify the version
 }
 
