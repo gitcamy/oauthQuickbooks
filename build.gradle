@@ -26,7 +26,7 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     implementation 'commons-lang:commons-lang:2.6'
     implementation 'org.apache.httpcomponents:httpcore'
-    implementation 'org.apache.httpcomponents:httpclient'
+    implementation 'org.apache.httpcomponents:httpclient:4.1.2'
     implementation 'log4j:log4j:1.2.17'
     implementation 'ant:ant:1.7.0'
     implementation 'org.json:json:20180813'
