@@ -9,8 +9,8 @@ plugins {
 
 group = 'com.example'
 version = '0.1.0'
-sourceCompatibility = '11' // Update Java version as needed
-targetCompatibility = '11' // Update Java version as needed
+sourceCompatibility = '21' // Update Java version as needed
+targetCompatibility = '21' // Update Java version as needed
 
 repositories {
     mavenCentral()
