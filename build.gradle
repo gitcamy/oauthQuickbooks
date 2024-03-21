@@ -30,6 +30,7 @@ dependencies {
     implementation 'log4j:log4j:1.2.17'
     implementation 'ant:ant:1.7.0'
     implementation 'org.json:json:20180813'
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
 }
 
 // Spring Boot's plugin already configures a task for creating an executable jar.
